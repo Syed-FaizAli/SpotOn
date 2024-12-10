@@ -1,8 +1,9 @@
-#Necessary steps to run the file:
-Modules to impot and install in terminal:
+
+#Modules to impot and install in terminal:
 pip install opencv-python
 pip install cvzone
 pip install numpy
+
 python
 >>> import cv2
 >>> import cvzone
@@ -25,3 +26,6 @@ Step-2:Run this file(opencv window pops up,i whu=ich you can mark all the parkin
 Step-3:When done marking press q on your keyboard(q is used as a key to close the openCV window)
 Step-4:Run the main.py file
 #Your program will run successfully!!
+
+If not please insure you follow the above steps carefully
+{Feel free to get the help from AI Tools}
