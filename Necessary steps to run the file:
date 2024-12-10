@@ -10,3 +10,18 @@ python
 >>> print(cv2._version_)
 >>> print(cvzone._version_)
 >>> print(np._version_)
+
+After this execute the following command in the terminal:
+cd "C:\Users\fayaf\Downloads\SpotOn-main\SpotOn-main\SpotOn!\ParkingSpaceFinder"
+python create_positions.py
+
+
+#After this you will be able to run the main.py file
+
+Steps to use this program:
+Step-1:Open ParkingSpacePiker.py
+Step-2:Run this file(opencv window pops up,i whu=ich you can mark all the parking slots)
+       In order to mark a spot use left click and to dismark use right click of your mouse
+Step-3:When done marking press q on your keyboard(q is used as a key to close the openCV window)
+Step-4:Run the main.py file
+#Your program will run successfully!!
