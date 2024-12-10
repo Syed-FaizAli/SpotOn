@@ -1,0 +1,12 @@
+#Necessary steps to run the file:
+Modules to impot and install in terminal:
+pip install opencv-python
+pip install cvzone
+pip install numpy
+python
+>>> import cv2
+>>> import cvzone
+>>> import numpy
+>>> print(cv2._version_)
+>>> print(cvzone._version_)
+>>> print(np._version_)
